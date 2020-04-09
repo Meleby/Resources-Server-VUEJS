@@ -1,0 +1,145 @@
+01:
+                    <div class="card">
+                        <iframe 
+                            src="https://www.youtube.com/embed/pQN-pnXPaVg"
+                            height="190"
+                            frameborder="0" 
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen
+                        ></iframe>
+                        <div class="card-body">
+                            <p class="card-text">{{"HTML Full Course - Build a Website Tutorial"}}</p>
+                            <a href="https://www.youtube.com/watch?v=pQN-pnXPaVg"  target="blank" class="btn btn-success">Watch from source</a>
+                        </div>
+                    </div>
+
+
+02:
+                   <div class="card">
+                        <iframe 
+                            src="https://www.youtube.com/embed/1Rs2ND1ryYc"
+                            height="190"
+                            frameborder="0" 
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen
+                        ></iframe>
+                        <div class="card-body">
+                            <p class="card-text">{{"CSS Tutorial - Zero to Hero (Complete Course)"}}</p>
+                            <a href="https://www.youtube.com/watch?v=1Rs2ND1ryYc"  target="blank" class="btn btn-success">Watch from source</a>
+                        </div>
+                    </div>
+
+
+03:
+                    <div class="card">
+                        <iframe 
+                            src="https://www.youtube.com/embed/9cKsq14Kfsw"
+                            height="190"
+                            frameborder="0" 
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen
+                        ></iframe>
+                        <div class="card-body">
+                            <p class="card-text">{{"Responsive Bootstrap Website Start To Finish with Bootstrap 4, HTML5 & CSS3"}}</p>
+                            <a href="https://www.youtube.com/watch?v=9cKsq14Kfsw"  target="blank" class="btn btn-success">Watch from source</a>
+                        </div>
+                    </div>
+
+
+04:
+                    <div class="card">
+                        <iframe 
+                            src="https://www.youtube.com/embed/PkZNo7MFNFg"
+                            height="190"
+                            frameborder="0" 
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen
+                        ></iframe>
+                        <div class="card-body">
+                            <p class="card-text">{{"Learn JavaScript - Full Course for Beginners"}}</p>
+                            <a href="https://www.youtube.com/watch?v=PkZNo7MFNFg" target="blank" class="btn btn-success">Watch from source</a>
+                        </div>
+                    </div>
+
+
+05:
+                    <div class="card">
+                        <iframe 
+                            src="https://www.youtube.com/embed/RLtyhwFtXQA"
+                            height="190"
+                            frameborder="0" 
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen
+                        ></iframe>
+                        <div class="card-body">
+                            <p class="card-text">{{"Nodejs : Learn Node.js - Full Tutorial for Beginners"}}</p>
+                            <a href="https://www.youtube.com/watch?v=RLtyhwFtXQA"  target="blank" class="btn btn-success">Watch from source</a>
+                        </div>
+                    </div>
+
+
+
+06:
+                    <div class="card">
+                        <iframe 
+                            src="https://www.youtube.com/embed/G8uL0lFFoN0"
+                            height="190"
+                            frameborder="0" 
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen
+                        ></iframe>
+                        <div class="card-body">
+                            <p class="card-text">{{"Express.js & Node.js Course for Beginners - Full Tutorial"}}</p>
+                            <a href="https://www.youtube.com/watch?v=G8uL0lFFoN0"  target="blank" class="btn btn-success">Watch from source</a>
+                        </div>
+                    </div>
+
+
+
+07:
+                    <div class="card">
+                        <iframe 
+                            src="https://www.youtube.com/embed/kt3cEjjkCZA"
+                            height="190"
+                            frameborder="0" 
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen
+                        ></iframe>
+                        <div class="card-body">
+                            <p class="card-text">{{"Pug Template Engine - Full Tutorial for Beginners"}}</p>
+                            <a href="https://www.youtube.com/watch?v=kt3cEjjkCZA"  target="blank" class="btn btn-success">Watch from source</a>
+                        </div>
+                    </div>
+
+
+
+08:
+                    <div class="card">
+                        <iframe 
+                            src="https://www.youtube.com/embed/CyTWPr_WwdI"
+                            height="190"
+                            frameborder="0" 
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen
+                        ></iframe>
+                        <div class="card-body">
+                            <p class="card-text">{{"MongoDB Tutorial - CRUD app from scratch using Node.js"}}</p>
+                            <a href="https://www.youtube.com/watch?v=CyTWPr_WwdI"  target="blank" class="btn btn-success">Watch from source</a>
+                        </div>
+                    </div>
+
+
+09:
+                   <div class="card">
+                        <iframe 
+                            src="https://www.youtube.com/embed/4yqu8YF29cU"
+                            height="190"
+                            frameborder="0" 
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen
+                        ></iframe>
+                        <div class="card-body">
+                            <p class="card-text">{{"MongoDB Full Tutorial w/ Node.js, Express, & Mongoose"}}</p>
+                            <a href="https://www.youtube.com/watch?v=4yqu8YF29cU"  target="blank" class="btn btn-success">Watch from source</a>
+                        </div>
+                    </div>
